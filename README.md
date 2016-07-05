@@ -16,6 +16,12 @@ $ env3/bin/pip install matplotlib
 $ env3/bin/pip install jupyter
 ```
 Other libraries may also need to installed.
+
+```
+$ env3/bin/pip install pymssql
+$ evn3/bin/pip install pymysql
+```
+
 To open the jupypter notebook, use:
 ```
 $ env3/bin/jupyter-notebook
